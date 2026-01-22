@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="GenericEnumOperators.Safe.Tests/GenericEnumOperators.Safe.Tests.csproj" Id="754652a5-9338-48b2-aa62-d14ca8bafe99" />
+  <Project Path="GenericEnumOperators.Safe/GenericEnumOperators.Safe.csproj" />
+  <Project Path="GenericEnumOperators.Tests.Shared/GenericEnumOperators.Tests.Shared.shproj" Id="dbad1047-da90-4b43-8dba-1b69394f8aaa" />
+  <Project Path="GenericEnumOperators.Unsafe.Tests/GenericEnumOperators.Unsafe.Tests.csproj" />
+  <Project Path="GenericEnumOperators.Unsafe/GenericEnumOperators.Unsafe.csproj" />
+</Solution>

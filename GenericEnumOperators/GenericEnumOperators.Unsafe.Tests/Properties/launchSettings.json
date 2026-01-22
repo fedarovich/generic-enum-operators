@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GenericEnumOperators.Tests": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TESTINGPLATFORM_TELEMETRY_OPTOUT": "1"
+      }
+    }
+  }
+}
