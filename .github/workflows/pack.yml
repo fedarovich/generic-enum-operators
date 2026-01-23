@@ -28,7 +28,7 @@ jobs:
     - name: Build
       run: dotnet build --no-restore GenericEnumOperators/GenericEnumOperators.slnx
     - name: Test
-      run: dotnet test --no-build --verbosity normal GenericEnumOperators/GenericEnumOperators.slnx
+      run: dotnet test --no-build --verbosity normal --solution GenericEnumOperators/GenericEnumOperators.slnx
     - name: Pack Safe
       run: dotnet pack --no-build --verbosity normal GenericEnumOperators/GenericEnumOperators.Safe/GenericEnumOperators.Safe.csproj
     - name: Pack Unsafe
